@@ -1,0 +1,6 @@
+1. The information stored in a general log file is a record of what mysqld is doing. If no name is specified to the general query log the default name is host_name.log and is found in the data directory.
+
+
+2. A system variable is a variable that stores information about the running package and objects. 
+
+3. Privileges tell what actions a MySQL account can perform.
